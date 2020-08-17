@@ -11,7 +11,7 @@ Execute the tables_creation.sql and PROC.sql files in the backend folder to crea
 ```bash
 mysql> {file_path}
 ```
-Once the tables are created the data can be added to the database using the MySQL INSERT statements (OR) data can also be added through the register page once both the servers are running.
+Once the tables are created the data can be added to the database using the MySQL INSERT statements (OR) data about security and staff members can also be added through the register page once both the servers are running.
 
 ## Backend server
 Execute the Server.js file in the backend folder to keep the backend server running with the below command
